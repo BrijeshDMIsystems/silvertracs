@@ -1,5 +1,6 @@
 ---
 title: Silvertracs
+subtitle: <b>SILVERTRACS SYSTEMS</b>
 layout: layouts/base.njk
 ---
 Consultants: Power Quality Analysis, Environment, Indoor Air Quality & Energy Audits<br /> Manufacturers: Power Quality & Energy  Measuring Instruments
@@ -8,36 +9,82 @@ Consultants: Power Quality Analysis, Environment, Indoor Air Quality & Energy Au
 </div>
 <hr />
 
-Silvertracs Systems started in 1991 has been actively involved in the field of Power Quality, Grounding and Environment for critical and sensitive Electronic Equipment. Silvertracs has two divisions:
+<table style="float:center"; border= "0px solid black"; width="100%">
+<thead>
+<tr>
+<th width="50%">We solve problems:</th>
+<th width="50%">Causing:</th>
+</tr>
+</thead>
 
-##  Development and Manufacturing of Power Quality, Energy & Environment Monitoring Equipment
-
-Silvertracs manufactures Power Quality Monitoring Instruments such as:
-
-- Power Quality Analyzers
-- Power, Harmonics & Energy Measuring Equipment
-- High Frequency Noise Detectors
-- Environment Monitoring Equipment
-- Line Ground Analyzers
-- Power Quality & Environment Monitoring Stations
-- Ground Fault Monitor
-- DB Monitor, etc.
-
-Many of this equipment are used in-house for the Power Quality Consultancy services that is being offered. Continuous development is pursued based on feed back obtained by the ‘on-field’ experience.   All equipment is calibrated with traceability to ETDC/ NPL standards.
-
-
-## Consultancy Services offered in:
-
-- Power Quality and Grounding.
-- Environmental – for Data Centers and Critical Application areas.
-- Air Quality.
-- Energy Audits
-
-Silvertracs has so far done more then 4,500 studies in the above mentioned categories. Silvertracs gives maximum effort to provide prompt and reliable service with a commitment to customer service and satisfaction, strive to maintain a high degree of business integrity. The reflection of our commitment can be seen in the form of a large client base that we have. Companies, large and small, expect quality service and we have been there to provide it. 
-
-Commitment makes this company what it is and it will always be the driving force behind us. We're not satisfied until you are.
-
+<tbody>
+<tr>
+<td>Power Quality</td>
+<td>Component Failure</td>
+</tr>
+<tr>
+<td>Energy Consumption</td>
+<td>System Hanging / rebooting</td>
+</tr>
+<tr>
+<td>Computer Room -Cooling</td>
+<td>Production loss</td>
+</tr>
+<tr>
+<td>Air Distribution</td>
+<td>Failures caused due to corrosion</td>
+</tr>
+<tr>
+<td>Air Quality</td>
+<td>High Electricity bills</td>
+</tr>
+<tr>
+<td></td>
+<td>Nuisance tripping</td>
+</tr>
+<tr>
+<td></td>
+<td>Fire Hazards</td>
+</tr>
+<tr>
+<td></td>
+<td>Electric Shock</td>
+</tr>
+<tr>
+<td></td>
+<td>ESD</td>
+</tr>
+<tr>
+<td></td>
+<td>Magnetic Field Interference</td>
+</tr>
+</tbody>
+</table>
 <hr />
+<br />
+
+Technology advancement has reached a stage where almost in all areas micro–electronics has come to play a role. Computers, Data Processing, Computerized Numerical Control Machines, Measuring Systems and Quality Control Systems, Process Control and Industrial Automation, Medical Systems and Communication etc., all of them incorporate advanced electronics. Power and healthy environment plays a major role. 
+
+Poor power quality, Environmental conditions, impure air, etc., affects the reliable operation of computers and computer-based equipment, which are now cannot be lived without. The loss of productivity resulting from computer equipment failure, miscalculations and downtime is a major worry. Loss in production and money spent in component replacement if estimated would be enormous. 
+
+<b>Silvertracs Systems</b> started in 1991 has been addressing Power Quality, Environmental, Air Quality & Energy Conservation problems and has specialized in the following business sectors: 
+
+##	Industry Specific Solutions 
+
+- Software Development Centers
+- BPO / Call Centers
+- Data Centers and Disaster Recovery sites
+- Telecommunication Industries
+- EDP Centers
+- Health Care and Hospitals (Medical Health)
+- Bank / FIs / Stock Exchanges
+- Industry Process Control and Automation (CNC Machines and Robots)
+- R & D - Defense and Educational
+
+<br />
+<hr />
+
+
 
 The pages found in in the posts
 
@@ -83,25 +130,6 @@ npm run start
 ## Add some Netlify helpers
 Netlify Dev adds the ability to use Netlify redirects, proxies, and serverless functions.
 
-```bash
-# install the Netlify CLI in order to get Netlify Dev
-npm install -g netlify-cli
-
-# run a local server with some added Netlify sugar in front of Eleventy
-netlify dev
-```
-
-A serverless functions pipeline is included via Netlify Dev. By running `netlify dev` you'll be able to execute any of your serverless functions directly like this:
-
-- [/.netlify/functions/hello](/.netlify/functions/hello)
-- [/.netlify/functions/fetch-joke](/.netlify/functions/fetch-joke)
-
-### Redirects and proxies
-
-Netlify's Redirects API can provide friendlier URLs as proxies to these URLs.
-
-- [/api/hello](/api/hello)
-- [/api/fetch-joke](/api/fetch-joke)
 
 
 
