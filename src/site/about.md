@@ -23,6 +23,9 @@ To get your own instance of this [Eleventy](https://11ty.io) starter project clo
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
 
 </div>
+<div>
+<img src="https://images.unsplash.com/photo-1580821100192-39130fdc17bf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80" width="50%" height="50%" />
+</div>
 
 ## 👆 Wait, what happens when I click that button?
 
