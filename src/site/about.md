@@ -1,7 +1,7 @@
 ---
 title: About Us
 layout: layouts/base.njk
-subtitle: SILVERTRACS SYSTEMS
+subtitle: <b>SILVERTRACS SYSTEMS, BANGALORE</b>
 ---
 
 
