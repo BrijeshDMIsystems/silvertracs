@@ -30,12 +30,11 @@ Many of this equipment are used in-house for the Power Quality Consultancy servi
 - Air Quality.
 - Energy Audits
 
-[Silvertracs Consultancy](/posts/consult-post) has so far done more then 4,500 studies in the above mentioned categories. Silvertracs gives maximum effort to provide prompt and reliable service with a commitment to customer service and satisfaction, strive to maintain a high degree of business integrity. The reflection of our commitment can be seen in the form of a large client base that we have. Companies, large and small, expect quality service and we have been there to provide it. 
+<p style="text-align:justify">Silvertracs Consultancy has so far done more then 4,500 studies in the above mentioned categories. Silvertracs gives maximum effort to provide prompt and reliable service with a commitment to customer service and satisfaction, strive to maintain a high degree of business integrity. The reflection of our commitment can be seen in the form of a large client base that we have. Companies, large and small, expect quality service and we have been there to provide it.</p>
 
 Commitment makes this company what it is and it will always be the driving force behind us. We're not satisfied until you are.
 
 <hr />
-
 
 ## Links
 

@@ -9,7 +9,9 @@ layout: layouts/base.njk
 </div>
 
 
-Power Quality & Grounding - Analysis is a very critical aspect in the reliable functioning of sensitive Computers (Servers, Workstations, Communication Equipment etc.) and other non-IT related Medical Diagnostics, Industrial Process Control & SPMs & in short any sensitive Electronic equipment. Silvertracs offers a complete service of Physical Inspection (scrutinize the design and installation—drawings and inspection for reliability, safety and adequacy vis-à-vis load, Monitoring for all electrical disturbances using Power Quality Analyzers & other test equipment like Infrared Thermal Imaging Cameras etc. Finally generation of reports comprising of observations, comments & conclusions.
+<p style="text-align:justify">Power Quality & Grounding - Analysis is a very critical aspect in the reliable functioning of sensitive Computers (Servers, Workstations, Communication Equipment etc.) and other non-IT related Medical Diagnostics, Industrial Process Control & SPMs & in short any sensitive Electronic equipment. Silvertracs offers a complete service of Physical Inspection (scrutinize the design and installation—drawings and inspection for reliability, safety and adequacy vis-à-vis load, Monitoring for all electrical disturbances using Power Quality Analyzers & other test equipment like Infrared Thermal Imaging Cameras etc. Finally generation of reports comprising of observations, comments & conclusions.</p>
+
+<hr />
 
 ## Links
 
