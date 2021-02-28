@@ -1,6 +1,6 @@
 ---
 title: Silvertracs
-subtitle: <b>SILVERTRACS SYSTEMS</b>
+subtitle: <b>SILVERTRACS SYSTEMS, BANGALORE</b>
 layout: layouts/base.njk
 ---
 Consultants: Power Quality Analysis, Environment, Indoor Air Quality & Energy Audits<br /> Manufacturers: Power Quality & Energy  Measuring Instruments
@@ -63,11 +63,11 @@ Consultants: Power Quality Analysis, Environment, Indoor Air Quality & Energy Au
 <hr />
 <br />
 
-Technology advancement has reached a stage where almost in all areas micro–electronics has come to play a role. Computers, Data Processing, Computerized Numerical Control Machines, Measuring Systems and Quality Control Systems, Process Control and Industrial Automation, Medical Systems and Communication etc., all of them incorporate advanced electronics. Power and healthy environment plays a major role. 
+<div style="text-align:justify"><big>Technology advancement has reached a stage where almost in all areas micro–electronics has come to play a role. Computers, Data Processing, Computerized Numerical Control Machines, Measuring Systems and Quality Control Systems, Process Control and Industrial Automation, Medical Systems and Communication etc., all of them incorporate advanced electronics. Power and healthy environment plays a major role.</big></div>
 
-Poor power quality, Environmental conditions, impure air, etc., affects the reliable operation of computers and computer-based equipment, which are now cannot be lived without. The loss of productivity resulting from computer equipment failure, miscalculations and downtime is a major worry. Loss in production and money spent in component replacement if estimated would be enormous. 
+<p style="text-align:justify">Poor power quality, Environmental conditions, impure air, etc., affects the reliable operation of computers and computer-based equipment, which are now cannot be lived without. The loss of productivity resulting from computer equipment failure, miscalculations and downtime is a major worry. Loss in production and money spent in component replacement if estimated would be enormous.</p>
 
-<b>Silvertracs Systems</b> started in 1991 has been addressing Power Quality, Environmental, Air Quality & Energy Conservation problems and has specialized in the following business sectors: 
+<p style="text-align:justify"><b>Silvertracs Systems</b> started in 1991 has been addressing Power Quality, Environmental, Air Quality & Energy Conservation problems and has specialized in the following business sectors: </p>
 
 ##	Industry Specific Solutions 
 
@@ -84,51 +84,25 @@ Poor power quality, Environmental conditions, impure air, etc., affects the reli
 <br />
 <hr />
 
+## Links
 
-
-The pages found in in the posts
-
+<ul>
+		<li>
+		<a href="\about">About</a>
+	</li>
+</ul>
 <ul class="listing">
 {%- for page in collections.post -%}
   <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
+    <a href="{{ page.url }}">{{ page.data.title }}</a>
   </li>
 {%- endfor -%}
 </ul>
-
-## Links from an external data source
-
-These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.json) at build time.
-
-<ul class="listing">
-{%- for item in hawksworx.entries.slice(0,5) -%}
-  <li>
-    <a href="{{ item.link }}">{{ item.title }}</a>
-  </li>
-{%- endfor -%}
+<ul>
+	<li>
+		<a href="\contact-us">Contact Us</a>
+	</li>
 </ul>
-
-
-## Prerequisite
-
-- [Node and NPM](https://nodejs.org/)
-
-## Running locally
-
-```bash
-# install the dependencies
-npm install
-
-# External data sources can be stashed locally
-npm run seed
-
-# It will then be available locally for building with
-npm run start
-```
-
-## Add some Netlify helpers
-Netlify Dev adds the ability to use Netlify redirects, proxies, and serverless functions.
 
 
 
